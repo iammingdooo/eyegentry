@@ -24,6 +24,7 @@ body{
     color: #333;
     line-height: 1;
     font-family: 'Noto Sans KR';
+    min-width: 1920px;
 }
 
 /* ❤❤❤.header */
